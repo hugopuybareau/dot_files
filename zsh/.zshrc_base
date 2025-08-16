@@ -28,7 +28,7 @@ alias gp='git push'
 alias gs='git status'
 alias ga='git add'
 alias gco='git checkout'
-alias gcm='git commit -m'
+alias gcom='git commit -m'
 alias gb='git branch'
 
 # pytest 
