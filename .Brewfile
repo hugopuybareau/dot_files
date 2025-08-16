@@ -16,6 +16,8 @@ brew "pre-commit"
 brew "pyenv"
 # Generate scripting interfaces to C/C++ code
 brew "swig"
+brew "stow"
+brew "fzf"
 # Automation tool
 cask "bunch"
 # App to build and share containerised applications and microservices
